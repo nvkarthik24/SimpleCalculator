@@ -1,0 +1,25 @@
+{
+  "name": "SimpleCalculator",
+  "version": "0.1.0",
+  "summary": "A short description of SimpleCalculator.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SimpleCalculator",
+  "license": "MIT",
+  "authors": {
+    "Vigneshkarthik": "nvkarthik24@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SimpleCalculator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SimpleCalculator": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
